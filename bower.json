@@ -1,0 +1,23 @@
+{
+  "name": "open-spaces-city",
+  "version": "1.0.0",
+  "homepage": "https://github.com/simbiotica/open-spaces-city",
+  "authors": [
+    "Simbiótica <info@simbiotica>"
+  ],
+  "description": "How people feels about open spaces in NYC",
+  "main": "app/scripts/main.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "underscore": "~1.7.0",
+    "normalize.css": "~3.0.2",
+    "underscore.string": "~2.3.3"
+  }
+}
