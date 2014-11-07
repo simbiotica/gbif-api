@@ -7,7 +7,7 @@
 
 	bower install
 
-#Development and usage
+## Development and usage
 
 	node server.js
 	Go to 0.0.0.0:3000
