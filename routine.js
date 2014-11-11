@@ -1,4 +1,4 @@
-module.exports = function(app) {
+module.exports = function() {
 
   'use strict';
   console.log('working..!');

@@ -1,5 +1,5 @@
 {
-  "name": "GBIF API",
+  "name": "GBIF-API",
   "version": "1.0.0",
   "description": "Scrapping data from GBIF API",
   "main": "app/scripts/main.js",
